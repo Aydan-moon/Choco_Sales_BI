@@ -81,7 +81,7 @@ This Power BI dashboard provides a comprehensive overview of key performance met
 
 ### **KPI Summary & Trends**
 ### **Product Analysis**
-### [Watch the Dashboard Demo](https://Chocolate_Sales_BI/Screenshoots/ezgif-4-bfd92a96aa.mp4)
+### [Watch the Dashboard Demo](Chocolate_Sales_BI/Screenshoots/ezgif-4-bfd92a96aa.mp4)
 
 
 ## Credits
