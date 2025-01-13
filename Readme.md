@@ -84,6 +84,3 @@ This Power BI dashboard provides a comprehensive overview of key performance met
 ### [Watch the Dashboard Demo](Chocolate_Sales_BI/Screenshoots/choco_dashboard_video.mp4)
 
 
-## Credits
-- **Designer**: Aydan Rzayeva
-- **Tools Used**: Power BI
